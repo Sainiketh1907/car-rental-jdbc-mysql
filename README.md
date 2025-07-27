@@ -101,7 +101,7 @@ hikari.maxLifetime=1800000
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sainiketh1907/car-rental-jdbc-mysql.git
 cd car-rental-jdbc-mysql
 ```
 
